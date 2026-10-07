@@ -1,0 +1,8 @@
+PySide6==6.8.2
+edge-tts
+httpx
+websocket-client
+sounddevice
+pyinstaller
+numpy
+Pillow

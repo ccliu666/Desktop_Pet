@@ -1,0 +1,11 @@
+__pycache__/
+smoke.png
+config.json
+pet_pos.json
+*.pyc
+*.mp3
+
+# 密钥与分发包
+keys.dat
+分发/
+license.dat

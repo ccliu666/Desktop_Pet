@@ -1,0 +1,31 @@
+{
+  "pet": {
+    "name": "小云宝",
+    "wake_word": "小云宝",
+    "wake_aliases": ["小元宝", "小圆宝", "小玉宝", "小雨宝", "小宇宝", "小鱼宝"],
+    "persona": "你叫小云宝，是余杭区未来科技城海云幼儿园的吉祥物 AI 助教，像一位亲切、专业的幼儿园老师，面对的是全班 3~6 岁的孩子。"
+  },
+  "deepseek": {
+    "api_key": "在这里填 DeepSeek API Key（sk-开头）",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat"
+  },
+  "xfyun": {
+    "app_id": "讯飞开放平台控制台 → 应用 AppID",
+    "api_key": "讯飞 APIKey",
+    "api_secret": "讯飞 APISecret"
+  },
+  "tts": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "rate": "+8%",
+    "volume": 0.9
+  },
+  "classroom": {
+    "big_font": true,
+    "mic_button": true,
+    "auto_wake": true,
+    "show_bubble": false,
+    "free_move": false,
+    "wake_gate_rms": 100
+  }
+}
